@@ -6,8 +6,8 @@ The default theme for [Ghost](http://github.com/tryghost/ghost/) in its old, mor
 
 ## Common Problems
 
-##### My Menu navigation doesn't work
-Perhaps you forgot to add `<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>` to your Code Injection » Blog Footer section.
+1. My Menu navigation doesn't work
+   Perhaps you forgot to add `<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>` to your Code Injection » Blog Footer section.
 
 ## Copyright & License
 
