@@ -4,6 +4,11 @@ The default theme for [Ghost](http://github.com/tryghost/ghost/) in its old, mor
 
 [Demo](https://tomasroggero.com/notes/)
 
+## Common Problems
+
+##### My Menu navigation doesn't work
+Perhaps you forgot to add `<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>` to your Code Injection » Blog Footer section.
+
 ## Copyright & License
 
 Copyright (c) 2013-2014 Ghost Foundation - Released under the MIT License.
